@@ -2,11 +2,13 @@
 
 ## Background
 
-
+Early cancer diagnosis and treatment play a crucial role in improving patients' survival rate. One of the most  important early diagnosis is to detect metastasis in lymph nodes through microscopic examination of hematoxylin and eosin (H&E) stained histopathology slides.
 
 ## References
 
+## Dataset
 
+PatchCamelyon (PCAM) benchmark dataset (https://github.com/basveeling/pcam).
 
 ## Concepts
 
