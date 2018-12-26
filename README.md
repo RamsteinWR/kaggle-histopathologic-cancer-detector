@@ -25,3 +25,13 @@ It consists of 327.680 color images (96x96 px) extracted from histopathologic sc
 - **Whole slide imaging (WSI)**
 
   Refers to scanning of conventional glass slides in order to produce digital slides, is the most recent imaging modality being employed by pathology departments worldwide.
+
+## Considerations
+
+- Is spatial correlation among slide patches important?
+
+
+
+
+
+
