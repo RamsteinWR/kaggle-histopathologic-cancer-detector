@@ -8,7 +8,9 @@ Early cancer diagnosis and treatment play a crucial role in improving patients' 
 
 ## Dataset
 
-PatchCamelyon (PCAM) benchmark dataset (https://github.com/basveeling/pcam).
+PatchCamelyon (PCAM) benchmark dataset [[github](https://github.com/basveeling/pcam)].
+
+It consists of 327.680 color images (96x96 px) extracted from histopathologic scans of lymph node sections. Each image is annotated with a binary label indicating presence of metastatic tissue.  
 
 ## Concepts
 
