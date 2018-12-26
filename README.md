@@ -4,7 +4,15 @@
 
 Early cancer diagnosis and treatment play a crucial role in improving patients' survival rate. One of the most  important early diagnosis is to detect metastasis in lymph nodes through microscopic examination of hematoxylin and eosin (H&E) stained histopathology slides.
 
+Significant discordance on detection results among different pathologist has also been reported.
+
 ## References
+
+- Deep Learning for Identifying Metastatic Breast Cancer [[arxiv](<https://arxiv.org/pdf/1606.05718.pdf>)].
+- Detecting Cancer Metastases on Gigapixel Pathology Images [[arxiv](https://arxiv.org/pdf/1703.02442.pdf)]
+- Pathology-images-analysis-using-CNN (<https://github.com/sdw95927/pathology-images-analysis-using-CNN>)
+- Localize the tissue regions in whole slide pathology images. (<https://github.com/PingjunChen/tissueloc>)
+- Cancer metastasis detection with neural conditional random field (NCRF) [pdf](https://openreview.net/pdf?id=S1aY66iiM) [[github](https://github.com/baidu-research/NCRF)]
 
 ## Dataset
 
