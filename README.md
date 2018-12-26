@@ -12,7 +12,7 @@ Significant discordance on detection results among different pathologist has als
 - Detecting Cancer Metastases on Gigapixel Pathology Images [[arxiv](https://arxiv.org/pdf/1703.02442.pdf)]
 - Pathology-images-analysis-using-CNN (<https://github.com/sdw95927/pathology-images-analysis-using-CNN>)
 - Localize the tissue regions in whole slide pathology images. (<https://github.com/PingjunChen/tissueloc>)
-- Cancer metastasis detection with neural conditional random field (NCRF) [pdf](https://openreview.net/pdf?id=S1aY66iiM) [[github](https://github.com/baidu-research/NCRF)]
+- Cancer metastasis detection with neural conditional random field (NCRF) [[pdf](https://openreview.net/pdf?id=S1aY66iiM)][[github](https://github.com/baidu-research/NCRF)]
 
 ## Dataset
 
